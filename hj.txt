@@ -1,3 +1,6 @@
-Hi.. AJ!
-How's going?
+My learning is gooing good,
+just two more technologies and I'll be 
+called as FullStack Developer.
+1. Node.js
+2. React.js 
 
